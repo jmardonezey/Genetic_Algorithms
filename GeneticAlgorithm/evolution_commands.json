@@ -1,0 +1,17 @@
+{
+    "selection_method": "selection_name",
+    "crossover_method": "crossover_name",
+    "stationary_state": "True",
+    "selection_method_inputs": {
+        "input1": "input1",
+        "input2": "input2"
+    },
+    "mutation_inputs": {
+        "input1": "input1",
+        "input2": "input2"
+    },
+    "crossover_input":{
+        
+    }
+}
+
